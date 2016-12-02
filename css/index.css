@@ -1,0 +1,121 @@
+html,body,p,h1,h2,h3,h4,h5,h6,ul,li{
+	margin: 0;padding: 0;
+}
+html,body{	
+	width: 100%;height: 100%;
+}
+.swiper-container{
+	width: 100%;height: 100%;
+	position: relative;
+}
+img{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+}
+.font{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	top: 0.9rem;
+	font-size: 0.6rem;
+	color: #fff;	
+}
+.font span{
+	margin-left: 0.6rem;
+}
+.font p{
+	font-size: 0.5rem;
+	padding-left: 2.3rem;
+}
+.ani{
+	width: 7.5rem;height: 13.34rem;
+}
+/****************** 1 ******************/
+.bottom1{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/bottom1.png);
+	background-size: 100% 100%;
+}
+.yin1{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/yin1.png);
+	background-size: 100% 100%;
+}
+.yun1{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/yun1.png);
+	background-size: 100% 100%;
+}
+.ping1{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/ping1.png);
+	background-size: 100% 100%;
+}
+/****************** 2 ******************/
+.bottom2{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/bottom2.png);
+	background-size: 100% 100%;
+}
+.font2 p{
+	padding-left: 1.5rem;
+}
+.yin2{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/yin2.png);
+	background-size: 100% 100%;
+}
+.yun2{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/yun2.png);
+	background-size: 100% 100%;
+}
+.ping2{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/ping2.png);
+	background-size: 100% 100%;
+}
+/****************** 3 ******************/
+.bottom3{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/bottom3.png);
+	background-size: 100% 100%;
+}
+.yin3{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/yin3.png);
+	background-size: 100% 100%;
+}
+.yun3{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/yun3.png);
+	background-size: 100% 100%;
+}
+.ping3{
+	width: 7.5rem;height: 13.34rem;
+	position: absolute;
+	bottom: 0; 
+	background: url(../img/ping3.png);
+	background-size: 100% 100%;
+}
